@@ -82,4 +82,4 @@ tolerations: []
 
 affinity: {}
 
-initialDelaySeconds: 5s
+initialDelaySeconds: 5
