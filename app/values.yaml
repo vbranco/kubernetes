@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-#  repository: wil42/playground
-  repository: nginx
+  repository: wil42/playground
+#  repository: nginx
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
